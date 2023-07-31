@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "randompasswordgenerator-1f500",
+  "private_key_id": "1c4ad44a616bff8ca9e3d068fbda4b45ca42d4a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEFWnbGtrTNx27\nqZK7rqEtoORDNWfCFGzV4NnvkuYzec0XaS4joHyxb06v10zYEQT4Qz5vQfoOExBz\nKWRUzuvfkKfxo+ev0ZxQ1DqZwpqmuXbLObK9NtRwCnZh8d1jOC+LvSJ7BOF41IwG\nZWdaTha/iq1vqRE95JmYvQc7YM9NbB1e4pja7Gfc23SL+yZXwIQffcmt3KAhWyL+\nHn69aOH6QYjWe9eNcgqPJjNo0zRdvDnkoOyLYCvqNdecZViClWG56389RKLkbWZJ\npvGqzYddfXK0OLGITgMED2Fc5v222uBZv+m3zyd1xpcyWX3xY7LIeTISQYm1oyNf\ns0z5izejAgMBAAECggEAIE9i/P6k1i770EN18UUqO+mKE2UGbt2MvYVqg+aR1iOY\n3uWu+6HjSh2MOr9gYy4SwpHaBN07RfxwNnm4lZzvEwy0D8YxVDBW8J639UQy1Ywz\n/fLI+BLD2J5wuVzwXPwSIZWNy/WW7aEgXaFx8VhyuScxwvd55tf3U0q6mVcvcZM4\nLfPuEKTLp+o+Jh8ZIj5BTdZy0jTbAJix1NPBMj2iqXt2mJ9s1CpTb589Wlzcv+jt\n8SDwOOiXvKSkNj/zLJMLQAoq4Warc2TplGiYjEAGS0MKlGC/9gOo2kjN2RzbAWys\nCrUc7mwDfUuRCMwjivVbeyzT1ZyRszJmtbgBorSTcQKBgQDqdbVGKajaOg6A8Ni7\nBdCXD+wdLRARnbXwcB8qn6Gb1hMbb+iwyGgnUcpDMCZ4zYBxJapAe9FKbnKWn3Xq\npZ0N+oITT1H6Dl36Cqzyjl/6eMjpdPnnBFSnn3PDSv22iEk92dzpDx4SziGqSXzD\n+Mxvvh8LnQKJYGOrprz/8EUNqQKBgQDWGSGox1ZeX4yizsKR+e6Dr5b35WQOX4ZS\nf3OnIm3DSDAJmMiM1VInFlK9tqqexCIjTRVQxeJz1oweDFEKPRGN64TBovP9lU+S\nVXIRZFaK8VUfpqqS4iSTdXJ8DdEwp5hbLudZbMO3MupB4vqinlI4Sf7Dhdq3zGpC\nT24gNxeyawKBgQDLY5kBaJpF1R9H06bvdrfgk7tsA+9wmLOABIPE4f27xhWFM6tT\n0EYp9dXUOyzklsDZZqcukTqZqv5Uk7gi+dAolCvKvICMv3HeuuwU7lVsXuNLQmKX\neTZGwxgVTjSR5+BBe4Eb3DVmctLZei51gps2RGOCG45bxfYwrdA+5hvBIQKBgB4n\nH/RzTpiwAFCVqhWBC7SEMFDtf6/+iB5qUNGDKc5NBmbzm5sqGA3lOPX7GgCOQviR\nzKS5mfESkF1TAr7cZvKD7wiOeKqIMtK7Mft9FCsxXfm9MVzKeLhD3EHYeFPP5sdA\nzdhsVwwgIZnx67ancZD36ueCnJEyOuzn3uyulanNAoGAYNAYHk/jWK8w65xWbq2R\nOEC7eyrWEkOtgOkfBdVTZau8UiyRa65KUZkjYYyYBJmoPvyWIuAxTqSM8l0jlbzK\nPczjgCVQ20A7R7cRpSB9u4nNiSvP8P0YEugjq7EcycJZ5mFu72m3ExlKkziGmJ53\n7IrS8yOYkq/5iXzIo20colQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2lsng@randompasswordgenerator-1f500.iam.gserviceaccount.com",
+  "client_id": "107168777940894871526",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2lsng%40randompasswordgenerator-1f500.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
